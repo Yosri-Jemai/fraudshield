@@ -1,0 +1,17 @@
+cfgv==3.5.0
+click==8.5.0
+deptry==0.25.1
+distlib==0.4.4
+filelock==4.1.0
+identify==2.6.20
+nodeenv==1.11.0
+packaging==26.3
+platformdirs==4.12.4
+pre_commit==4.6.2
+python-discovery==1.6.4
+PyYAML==6.0.3
+requirements-parser==0.13.1
+ruff==0.17.2
+tomli==2.5.0
+typing_extensions==4.16.0
+virtualenv==21.14.13
